@@ -16,3 +16,5 @@ The dataset was collected via Python scraper in March 2023 and contains:
 - Sentiment Analysis results revealed that Skincare products provoke very diverging customer opinions meaning that Sephora should further explore how to serve the needs of customers with different skin tones and skin types.
 - Feedback count variables influence reviews' clustering the most. Sentiment scores have a minimal influence on the clustering and the price point only mattered for highly priced products
 - The products clustering had 4 groups:  Cluster 0 has premium fragrances with high prices and ~4.3 ratings; Cluster 1 features many affordable products with mixed quality; Cluster 2 offers a diverse range of mid-priced items with ratings from 3.8 to 5; Cluster 3 contains fewer products but the highest reviews, indicating strong customer engagement.
+
+Check the presentation to see some cool visuals.
