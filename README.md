@@ -11,7 +11,7 @@ The dataset was collected via Python scraper in March 2023 and contains:
 - Sentiment analysis to identify customer pain points and strengths to leverage
 
 ## **Results Summary**
-- Strong associations include Products and their mini sizes and Products within the same category suggesting these should be placed next to each other in stores
+- Strong associations include Products and their mini sizes and Products within the same category suggesting these should be placed next to each other in stores.
 - Common themes found with TFIDF suggest that skincare products are highly discussed and special attention should be given to that category.
 - Sentiment Analysis results revealed that Skincare products provoke very diverging customer opinions meaning that Sephora should further explore how to serve the needs of customers with different skin tones and skin types.
 - Feedback count variables influence reviews' clustering the most. Sentiment scores have a minimal influence on the clustering and the price point only mattered for highly priced products
